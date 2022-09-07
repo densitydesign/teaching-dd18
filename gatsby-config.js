@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: "Final Synthesis Design Studio 2021/2022",
-    titleTemplate: "%s - DD17",
+    title: "Final Synthesis Design Studio 2022/2023",
+    titleTemplate: "%s - DD18",
     description:
-      "Official website of the DensityDesign Final Synthesis Design Studio, 2021/2022",
-    siteUrl: "https://densitydesign.github.io/teaching-dd17/",
-    url: "https://densitydesign.github.io/teaching-dd17/",
+      "Official website of the DensityDesign Final Synthesis Design Studio, 2022/2023",
+    siteUrl: "https://densitydesign.github.io/teaching-dd18/",
+    url: "https://densitydesign.github.io/teaching-dd18/",
     image: "static/og-image.png", // Path to your image you placed in the 'static' folder
     twitterUsername: "@densitydesign",
   },
@@ -22,7 +22,6 @@ module.exports = {
     "gatsby-plugin-mdx",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
-    `gatsby-plugin-remove-trailing-slashes`,
     "react-icons",
     {
       resolve: "gatsby-source-filesystem",
@@ -41,6 +40,6 @@ module.exports = {
       __key: "pages",
     },
   ],
-  pathPrefix: "/teaching-dd17"
+  pathPrefix: "/teaching-dd18"
   };
 

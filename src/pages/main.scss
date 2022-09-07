@@ -1,8 +1,9 @@
 // $main-color: #ABAB73;
 // $main-color: #809D84;
-$secondary: #ff9a50;
-$main-color: #99B2DD;
-$accent: #FFFD98;
+$text-color: #101111;
+$secondary: #101111;
+$main-color: #C4C8D8;
+$accent: #D3FFCD;
 
 @font-face {
     font-family: 'Erode';
@@ -39,7 +40,7 @@ a, a:visited {
     padding: 0.2rem 0.5rem;
     border-radius: 100rem;
     border: 1px solid $accent;
-    color: $secondary;
+    color: $text-color;
     background: $accent;
     transition: 0.3s ease all;
     overflow-wrap: break-word;
@@ -56,7 +57,7 @@ a:hover {
 h1, h2, h3, h4, h5 {
     font-family: "HK Grotesk";
     font-weight: normal;
-    color: $accent;
+    color: $secondary;
 }
 
 h1 {
@@ -94,7 +95,6 @@ nav {
     grid-template-columns: repeat(4, 1fr);
     column-gap: 1rem;
     padding: 1rem 0;
-    border-bottom: 1px solid $accent;
     line-height: 1.1;
 
     * {
@@ -240,31 +240,29 @@ footer {
 
 .title-card {
     text-align: center;
-    height: 60vh;
+    height: 40vh;
     margin-bottom: 5rem;
-    background: $secondary;
     grid-column: 1 / span 5;
     display: flex;
     align-items: center;
     align-content: center;
     justify-content: center;
     flex-wrap: wrap;
-
+    
     * {
         min-width: 100%;
+        color: $text-color !important;
     }
 
     .title {
         font-size: 4rem;
         margin: 0;
-        // color: darken($main-color, 20%);
         font-weight: bold;
     }
     
     .subtitle {
         margin: 0;
         font-size: 2.5rem;
-        // color: darken($main-color, 20%);
     }
 }
 
