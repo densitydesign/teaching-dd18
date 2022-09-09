@@ -15,10 +15,6 @@ const IndexPage = () => {
     <>
     <title>DensityDesign Lab Final Synthesis Design Studio 2022/2023 - Mediazioni algoritmiche</title>
     <Navbar/>
-    <div className="title-card">
-      <h2 className="subtitle">DensityDesign 18 - Final Synthesis Design Studio 2022/2023</h2>
-      <h3>Politecnico di Milano, Master Degree in Communication Design</h3>
-      </div>
     <Aside/>
     <main>
       <Index />

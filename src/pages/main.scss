@@ -4,6 +4,8 @@ $text-color: #101111;
 $secondary: #101111;
 $main-color: #C4C8D8;
 $accent: #D3FFCD;
+$text-font: "Erode", "Georgia", serif;
+$display-font: "HK Grotesk", "Arial", sans-serif;
 
 @font-face {
     font-family: 'Erode';
@@ -25,7 +27,7 @@ $accent: #D3FFCD;
 
 
 body {
-    font-family: "Erode";
+    font-family: $text-font;
     font-size: 1.3rem;
     // background: #97DB4F;
     background: $main-color;
@@ -154,7 +156,7 @@ aside.right {
             justify-content: flex-start;
             margin-bottom: 1.1rem;
             font-size: 1rem;
-            font-family: "HK Grotesk";
+            font-family: $display-font;
         }
 
         a {
@@ -181,6 +183,18 @@ main {
 
     table {
         max-width: 100%;
+    }
+
+    blockquote {
+        font-size: 1.6rem;
+        margin: 0;
+        padding: 0.2rem 1.5rem;
+        font-family: $display-font;
+        background: $accent;
+
+        p {
+            text-indent: 0rem;
+        }
     }
 }
 
