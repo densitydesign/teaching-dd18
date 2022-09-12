@@ -7,16 +7,16 @@ export default function Aside() {
             <h3>Additional materials</h3>
             <ul>
                 <li>
-                    <a href="https://densitydesign.github.io/teaching-dd16/" target="_blank">DD16 FSDS 2020/2021</a>
+                    <a href="https://densitydesign.github.io/teaching-dd17/" target="_blank">DD17 FSDS 2021/2022</a>
                 </li>
                 <li>
-                    <a href="https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2021&k_cf=19&k_corso_la=1162&k_indir=***&codDescr=052799&lang=EN&semestre=1&anno_corso=2&idItemOfferta=154784&idRiga=267427" target="_blank">2021/2022 Course manifesto</a>
+                    <a href="https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=783420&polij_device_category=DESKTOP&__pj0=0&__pj1=d3f54ba7306488b75e1c05f4ce5cadfa" target="_blank">2022/2023 Course manifesto</a>
                 </li>
                 <li>
-                    <a href="https://t.me/density17" target="_blank">Telegram Channel</a>
+                    <a href="https://t.me/density18" target="_blank">Telegram Channel</a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/drive/folders/1UUxOIWTZFKAYVjlrfpAzPCEJayv8fcxY?usp=sharing" target="_blank">Google Drive Folder</a>
+                    <a href="https://bit.ly/density18" target="_blank">Google Drive Folder</a>
                 </li>
             </ul>
         </aside>
