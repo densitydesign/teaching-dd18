@@ -8,18 +8,6 @@ $text-font: "Karla", "Georgia", serif;
 $display-font: "Unbounded", "Arial", sans-serif;
 
 @font-face {
-    font-family: 'Happy Times';
-    src: url('../assets/fonts/happy-times-NG_regular_master.otf') format('woff2');
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Happy Times';
-    src: url('../assets/fonts/happy-times-NG_italic_master.otf') format('woff2');
-    font-style: italic;
-}
-
-@font-face {
     font-family: 'Unbounded';
     src: url('../assets/fonts/Unbounded-Variable.woff2') format('woff2');
     font-weight: 100 900;
