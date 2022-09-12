@@ -39,7 +39,7 @@ class Footer extends React.Component {
       </div>
 
       <div id="contacts">
-      <p>The Final Synthesis Design Studio is a laboratory that takes place at Politecnico di Milano, in the last year of the Master's Degree in Communication Design between September 2021 and January 2022.</p>
+      <p style={{marginTop: 0}}>The Final Synthesis Design Studio is a laboratory that takes place at Politecnico di Milano, in the last year of the Master's Degree in Communication Design between September 2022 and January 2024.</p>
       <ul>
       <li><a href="https://www.facebook.com/densitydesign"><AiOutlineFacebook className="icon" /></a> <a href="https://twitter.com/densitydesign"><AiOutlineTwitter className="icon" /></a> <a href="https://www.instagram.com/densitydesign/"><AiOutlineInstagram className="icon" /></a></li>
       <li><a href="http://densitydesign.org/"><AiOutlineGlobal className="icon" /> densitydesign.org</a></li>

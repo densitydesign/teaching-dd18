@@ -4,24 +4,25 @@ $text-color: #101111;
 $secondary: #101111;
 $main-color: #C4C8D8;
 $accent: #D3FFCD;
-$text-font: "Erode", "Georgia", serif;
-$display-font: "HK Grotesk", "Arial", sans-serif;
+$text-font: "Karla", "Georgia", serif;
+$display-font: "Unbounded", "Arial", sans-serif;
 
 @font-face {
-    font-family: 'Erode';
-    src: url('../assets/fonts/Erode-Variable.woff2') format('woff2');
+    font-family: 'Happy Times';
+    src: url('../assets/fonts/happy-times-NG_regular_master.otf') format('woff2');
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Erode';
-    src: url('../assets/fonts/Erode-VariableItalic.woff2') format('woff2');
+    font-family: 'Happy Times';
+    src: url('../assets/fonts/happy-times-NG_italic_master.otf') format('woff2');
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'HK Grotesk';
-    src: url('../assets/fonts/HKGrotesk-Medium.woff2') format('woff2');
+    font-family: 'Unbounded';
+    src: url('../assets/fonts/Unbounded-Variable.woff2') format('woff2');
+    font-weight: 100 900;
     font-style: normal;
 }
 
@@ -37,10 +38,10 @@ body {
 
 a, a:visited {
     text-decoration: none;
-    font-family: "HK Grotesk";
+    font-family: $text-font;
     font-size: 1.1rem;
     padding: 0.2rem 0.5rem;
-    border-radius: 100rem;
+    border-radius: 5px;
     border: 1px solid $accent;
     color: $text-color;
     background: $accent;
@@ -57,9 +58,10 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: "HK Grotesk";
-    font-weight: normal;
+    font-family: $display-font;
+    font-weight: 350;
     color: $secondary;
+    text-transform: uppercase;
 }
 
 h1 {
@@ -81,7 +83,7 @@ h3 {
 #gatsby-focus-wrapper {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    column-gap: 1rem;
+    column-gap: 1.4rem;
     padding: 0 5%;
     max-width: 1200px;
     margin: auto;
@@ -98,6 +100,11 @@ nav {
     column-gap: 1rem;
     padding: 1rem 0;
     line-height: 1.1;
+
+    .course-title {
+        font-family: $text-font;
+        line-height: 1.3;
+    }
 
     * {
         margin: 0;
@@ -187,10 +194,9 @@ main {
 
     blockquote {
         font-size: 1.6rem;
-        margin: 0;
-        padding: 0.2rem 1.5rem;
+        margin: 1.5rem 0 1rem 0;
         font-family: $display-font;
-        background: $accent;
+        text-shadow: -2px -2px 0 $accent, 2px -2px 0 $accent, -2px 2px 0 $accent, 2px 2px 0 $accent;
 
         p {
             text-indent: 0rem;
@@ -253,14 +259,12 @@ footer {
 }
 
 .title-card {
-    text-align: center;
-    height: 40vh;
-    margin-bottom: 5rem;
+    margin: 5rem 0;
     grid-column: 1 / span 5;
     display: flex;
     align-items: center;
     align-content: center;
-    justify-content: center;
+    justify-content: flext-start;
     flex-wrap: wrap;
     
     * {
@@ -269,14 +273,16 @@ footer {
     }
 
     .title {
-        font-size: 4rem;
+        font-size: 2.5rem;
         margin: 0;
-        font-weight: bold;
+        font-weight: 500;
+        text-shadow: -2px -2px 0 $accent, 2px -2px 0 $accent, -2px 2px 0 $accent, 2px 2px 0 $accent;
+        text-transform: none;
     }
     
     .subtitle {
         margin: 0;
-        font-size: 2.5rem;
+        font-size: 1.5rem;
     }
 }
 
@@ -407,7 +413,7 @@ footer {
           }
 
           .course-title {
-              display: none
+              display: none;
           }
 
           ul {
