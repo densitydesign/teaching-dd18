@@ -1,11 +1,10 @@
 import React from "react"
-import { Link } from "gatsby"
 
 const navMenu = ({data}) => (
     <aside className="right">
         <ul>
             {data.groups.map((data, index) => {
-                return <li><a href={"#"+data.group}>{index+1}</a> <span>{data.title}</span></li>
+                return <li><a href={"#"+data.group}><span className="index">{index+1}</span> <span style={{marginLeft: "1rem"}}>{data.title}</span></a></li>
             })}
         </ul>
     </aside>
