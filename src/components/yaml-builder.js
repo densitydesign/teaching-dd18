@@ -7,7 +7,7 @@ const YAMLbuilder = ({data}) => (
         return <div key={`content_item_${index}`} style={{ marginBottom: `5rem` }} id={data.group}>
             <div className="card">
                 <div style={{
-                  backgroundImage: `url(../../reports/thumb/g0${index+1}.gif)`,
+                  backgroundImage: `url(../../reports/thumb/g0${index+1}.png)`,
                   backgroundSize: `cover`,
                   backgroundPosition: `center`
                 }}><Link href={`../../reports/report_group0${index+1}.pdf`}>Report ↗</Link></div>

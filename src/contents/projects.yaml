@@ -20,7 +20,7 @@ groups:
 - group: group04
   title: "Mapping alternative social media platforms"
   names: "Letizia Agosta, Aurora Antonini Cencicchio, Martina Bombardieri, Elena Busletta, Camilla De Amicis, Federico Lucifora"
-  image: "../../assets/img/es03/cover-g04.gif"
+  image: "../assets/img/es03/cover-g04.gif"
   desc: "After the Cambridge Analytica scandal, concerns about data privacy on leading social media platforms have increased. As a result, alternatives have gained traction. Claiming to give social networking back in the hands of users, allowing them to speak freely without worrying about privacy, or simply offering trust, control and love, an ecology of messaging and networking apps has arisen. At the same time, as leading social media platforms tighten their policies towards hate speech and deactivate the accounts of extreme internet celebrities (a phenomenon referred to as deplatforming, yet another ecosystem of alternative social media platforms arose, offering a safe haven for alt-right personalities. How can we map these alternatives? And what precisely do these new services claim to provide an alternative to? What is the life of such platforms? Do they change (or disappear)?"
 
 - group: group05
