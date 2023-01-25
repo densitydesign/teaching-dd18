@@ -13,7 +13,13 @@ const posters = ({data}) => (
               marginRight: `1.5rem`,
               gridColumn: `span 3`
             }}>
+              <Link href={`../../posters/g0${index+1}.pdf`} style={{
+                backgroundColor: "transparent",
+                padding: 0,
+                border: "none"
+              }}>
               <img src={`../../posters/thumb/0${index+1}.jpg`} style={{maxWidth: `100%`}}/>
+              </Link>
             </div>
             <div style={{
               gridColumn: `span 5`

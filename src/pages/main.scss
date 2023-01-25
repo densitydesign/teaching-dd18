@@ -363,6 +363,11 @@ footer {
             align-items: flex-end;
             width: 50%;
             height: 350px;
+            transition: opacity 0.3s ease;
+        }
+
+        > *:hover {
+            opacity: 0.5;
         }
 
         > *:first-child {
