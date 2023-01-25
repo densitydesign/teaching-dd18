@@ -1,0 +1,33 @@
+---
+groups:
+  - group: group00
+    topic: "Greenwashing"
+    names: "Silvia Altamura, Ana Doric, Wanlin Li, Jessica Moreschi, Martina Paggi,
+          Matteo Repetto, Lucrezia Valentini"
+    report: 
+      - title: "The Green Fever"
+        desc: "The report looks into how major fast food companies in the U.S. present
+      sustainability on their websites. The food sector is accountable for 34%
+      of CO2 emissions, and the U.S. is a major contributor. Thus, the aim of
+      the study is to discover common patterns or distinct formulas in the
+      digital communication tactics used by these corporations in relation to
+      their representation of environmental impact. The study also aims to
+      detect instances of greenwashing (deceptive claims of environmental
+      responsibility) by analysing the history of the website, including when
+      the sustainability page was introduced and the images and keywords used on
+      it."
+    website: 
+      - title: "The Green Recipe Archive"
+        desc: "The ongoing climate change can be considered
+      as one of the major topics of today. Thus, many companies have been
+      motivated to align their businesses to the new green values. As one of the
+      significant generators of CO2 emissions, fast food companies are trying to
+      change the current statistics as well. In doing so, they've started
+      talking about environmental consciousness: by using a website as an
+      official communication tool, they can at ease reach an audience and spread
+      their green narratives. This archive is therefore structured as a
+      collection of these green narratives, in which real examples of sentences
+      extracted from their websites can be consulted and explored. A special
+      attention was paid to highlighting the strategies and common patterns
+      behind them: the “ingredients” of their “green recipes”."
+        url: "https://github.com/densitydesign/dd18-g02"

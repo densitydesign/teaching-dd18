@@ -1,22 +1,21 @@
 ---
-groups:
   - group: group01
-    title: How Do Climate Images Circulate Online
-    names: Litong Sun, Lucrezia Spapperi Gestri, Manman Li, Ran Lin, Ye Li, Yiheng
-      Zhong, Yijia Gao
-    image: ../../assets/img/es03/cover-g01.gif
-    desc: Image is a compelling visual medium for depicting real people,
-      communicating truths, and creating new narratives. Additionally, when
-      coupled with climate change, its emotionally powerful images can raise
-      audience awareness of the issue. And how, precisely, “ClimateVisuals” -
-      the climate image library, is a powerful platform built on trustworthy
-      compass points. In this project, we analyse using a selection of images
-      from ClimateVisuals
+    title: "How Do Climate Images Circulate Online"
+    names: "Litong Sun, Lucrezia Spapperi Gestri, Manman Li, Ran Lin, Ye Li, Yiheng
+          Zhong, Yijia Gao"
+    image: "../../assets/img/es03/cover-g01.gif"
+    desc: "Image is a compelling visual medium for depicting real people,
+          communicating truths, and creating new narratives. Additionally, when
+          coupled with climate change, its emotionally powerful images can raise
+          audience awareness of the issue. And how, precisely, “ClimateVisuals” -
+          the climate image library, is a powerful platform built on trustworthy
+          compass points. In this project, we analyse using a selection of images
+          from ClimateVisuals"
   - group: group02
-    title: The Green Fever
-    names: Silvia Altamura, Ana Doric, Wanlin Li, Jessica Moreschi, Martina Paggi,
-      Matteo Repetto, Lucrezia Valentini
-    image: ../../assets/img/es03/cover-g02.png
+    title: "The Green Fever"
+    names: "Silvia Altamura, Ana Doric, Wanlin Li, Jessica Moreschi, Martina Paggi,
+          Matteo Repetto, Lucrezia Valentini"
+    image: "../../assets/img/es03/cover-g02.png"
     desc: "The report looks into how major fast food companies in the U.S. present
       sustainability on their websites. The food sector is accountable for 34%
       of CO2 emissions, and the U.S. is a major contributor. Thus, the aim of
@@ -39,45 +38,45 @@ groups:
       attention was paid to highlighting the strategies and common patterns
       behind them: the “ingredients” of their “green recipes”."
   - group: group03
-    title: Lost in the Woods - A Hike through the Terms surrounding Reforestation
-    names: Giulio Alessandrini, Alexandra Chiojdeanu, Andrea Corsini, Greta Cozza,
-      Miguel Gashi, Alessia Mattesini, Ana Muço
-    image: ../../assets/img/es03/cover-g03.gif
-    desc: With the threat of climate change growing day by day, our responsibility
-      to care for our planet is more impor- tant than ever. This is where
-      reforestation comes into play. The topic is connected to a range of
-      practices adapted to solving environmental problems, from restor- ing
-      habitats to replanting acres of damaged woodland. However, due to these
-      varying methods, a branching can- opy of terms emerges. The aim of this
-      investigation is to determine how these practices are connected, their
-      growth over time, and which factors affect our associations to them. To
-      conduct this analysis, three platforms were mainly used, Wikipedia, Google
-      Trends and Google Images, to collect data and build findings. The
-      following research expands on reforestation terms to find related topics
-      using Wikipedia, allowing for the creation of network graphs which
-      highlight connections and clusters between the data gathered. Google
-      Trends was used to reveal the search trends of terms over time. Their
-      popularity and how it fluctuates is shown, along with events and patterns
-      that cause these changes. By ana- lysing Google Image results, the way
-      terms are visually portrayed is investigated. This reveals usage of common
-      tropes they share, or imagery unique to them. Plant Forward This is a
-      website that takes its cue from the research done on the topic of
-      reforestation named Lost in Woods, from the images found for that research
-      in fact an archive was designed to understand how the images represent
-      reforestation. Specifically we sorted the images according to how old the
-      plant within was visually, we then presented this order in a continuous
-      morphing between the images, thus creating the illusion of a plant growing
-      with the passage of time. alongside this visualization we placed a sort of
-      timeline so that at a glance we could estimate how many images represented
-      the various stages of tree growth. The core of the site is then
-      accompanied by an initial scrollytelling that explains the theme of the
-      work and the logic of sorting the images, and an about page that explains
-      the research methodologies applied to this project.
+    title: "Lost in the Woods - A Hike through the Terms surrounding Reforestation"
+    names: "Giulio Alessandrini, Alexandra Chiojdeanu, Andrea Corsini, Greta Cozza,
+          Miguel Gashi, Alessia Mattesini, Ana Muço"
+    image: "../../assets/img/es03/cover-g03.gif"
+    desc: "With the threat of climate change growing day by day, our responsibility
+          to care for our planet is more impor- tant than ever. This is where
+          reforestation comes into play. The topic is connected to a range of
+          practices adapted to solving environmental problems, from restor- ing
+          habitats to replanting acres of damaged woodland. However, due to these
+          varying methods, a branching can- opy of terms emerges. The aim of this
+          investigation is to determine how these practices are connected, their
+          growth over time, and which factors affect our associations to them. To
+          conduct this analysis, three platforms were mainly used, Wikipedia, Google
+          Trends and Google Images, to collect data and build findings. The
+          following research expands on reforestation terms to find related topics
+          using Wikipedia, allowing for the creation of network graphs which
+          highlight connections and clusters between the data gathered. Google
+          Trends was used to reveal the search trends of terms over time. Their
+          popularity and how it fluctuates is shown, along with events and patterns
+          that cause these changes. By ana- lysing Google Image results, the way
+          terms are visually portrayed is investigated. This reveals usage of common
+          tropes they share, or imagery unique to them. Plant Forward This is a
+          website that takes its cue from the research done on the topic of
+          reforestation named Lost in Woods, from the images found for that research
+          in fact an archive was designed to understand how the images represent
+          reforestation. Specifically we sorted the images according to how old the
+          plant within was visually, we then presented this order in a continuous
+          morphing between the images, thus creating the illusion of a plant growing
+          with the passage of time. alongside this visualization we placed a sort of
+          timeline so that at a glance we could estimate how many images represented
+          the various stages of tree growth. The core of the site is then
+          accompanied by an initial scrollytelling that explains the theme of the
+          work and the logic of sorting the images, and an about page that explains
+          the research methodologies applied to this project."
   - group: group04
-    title: Ultra-Fast
-    names: Giovanni Bonassi, Cecilia Buonocunto, Martina Bracchi, Silvia Casavola,
-      Vlada Ershova, Kateryna Lapshyna, Matteo Visini
-    image: ../assets/img/es03/cover-g04.gif
+    title: "Ultra-Fast"
+    names: "Giovanni Bonassi, Cecilia Buonocunto, Martina Bracchi, Silvia Casavola,
+          Vlada Ershova, Kateryna Lapshyna, Matteo Visini"
+    image: "../assets/img/es03/cover-g04.gif"
     desc: "The buzz around fast fashion retailers, how sustainable and ethical they
       are, has been circulating in the media for quite a while. Companies like
       Shein, H&M, Zara, Mango, etc. are more and more frequently criticised by
@@ -108,9 +107,9 @@ groups:
       behind the fashion industry."
   - group: group05
     title: "#banprivatejets: the social debate"
-    names: Kangying Chen, Giuseppe Defilippis, Stefano Gubiolo, Maria Martinuz,
-      Donato Renzulli, Antonio Sacchet, Yuying Tang
-    image: ../../assets/img/es03/cover-g05.png
+    names: "Kangying Chen, Giuseppe Defilippis, Stefano Gubiolo, Maria Martinuz,
+          Donato Renzulli, Antonio Sacchet, Yuying Tang"
+    image: "../../assets/img/es03/cover-g05.png"
     desc: "In 2022 private jets have become a relevant topic in the fight against
       climate change. Using #banprivatejets, groups of activists, politicians
       and scientists have begun to highlight the need to tax emissions of
@@ -133,9 +132,9 @@ groups:
   - group: group06
     title: "ARTIFICIAL CLIMATE IMAGES:  Questioning Stable Diffusion’s
       interpretations of climate change"
-    names: Anna Cattaneo, Yiyuan Hu, Lara Macrini, Nicole Moreschi, Leonardo Puca,
-      Silvia Sghirinzetti, Ce Zheng
-    image: ../../assets/img/es03/cover-g06.png
+    names: "Anna Cattaneo, Yiyuan Hu, Lara Macrini, Nicole Moreschi, Leonardo Puca,
+          Silvia Sghirinzetti, Ce Zheng"
+    image: "../../assets/img/es03/cover-g06.png"
     desc: "Innovations in the digital sphere have made Artificial Intelligences new
       actors of the communication landscape. What if txt-to-img AIs were in
       charge of producing climate change visuals? This report uses Stable
@@ -162,10 +161,10 @@ groups:
       patterns. The result is explorable through the website in the bias
       catalogue and the prompt explorer."
   - group: group07
-    title: A highway to greenness. Analysing green narratives in car brands’ adverts
-    names: Andrea Benedetto, Simone Cerea, Camilla Guerci, Surabhi Gupta, Haleh
-      Nobar, Alessandro Pedriali, Yousef Taffal
-    image: ../../assets/img/es03/cover-g07.png
+    title: "A highway to greenness. Analysing green narratives in car brands’ adverts"
+    names: "Andrea Benedetto, Simone Cerea, Camilla Guerci, Surabhi Gupta, Haleh
+          Nobar, Alessandro Pedriali, Yousef Taffal"
+    image: "../../assets/img/es03/cover-g07.png"
     desc: "During these last decades, the automotive industry seems to have taken
       some steps towards “sustainability”, by increasing fuel efficiency and
       developing hybrid and “emission-free” powertrains. Despite this, it is
