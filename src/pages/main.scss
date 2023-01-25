@@ -350,13 +350,19 @@ footer {
 
     .card {
         display: flex;
+
+        a.inverted {
+            background-color: $main-color;
+        }
         
         > * {
+            background-color: $accent;
+            border: 25px solid $accent;
             display: flex;
             justify-content: center;
-            align-items: center;
+            align-items: flex-end;
             width: 50%;
-            height: 600px;
+            height: 350px;
         }
 
         > *:first-child {

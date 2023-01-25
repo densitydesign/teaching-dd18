@@ -6,16 +6,18 @@ const YAMLbuilder = ({data}) => (
     {data.groups.map((data, index) => {
         return <div key={`content_item_${index}`} style={{ marginBottom: `5rem` }} id={data.group}>
             <div className="card">
-                <div style={{
-                  backgroundImage: `url(../../reports/thumb/g0${index+1}.png)`,
-                  backgroundSize: `cover`,
-                  backgroundPosition: `center`
-                }}><Link href={`../../reports/report_group0${index+1}.pdf`}>Report ↗</Link></div>
-                <div style={{
-                  backgroundImage: `url(../../websites/thumb/g0${index+1}.gif)`,
-                  backgroundSize: `cover`,
-                  backgroundPosition: `center`
-                }}><Link href={`../../websites/g0${index+1}/index.html`}>Website ↗</Link></div>
+                <Link href={`../../reports/report_group0${index+1}.pdf`} style={{
+                  backgroundImage: `url(../../reports/thumb/0${index+1}.png)`,
+                  backgroundSize: `contain`,
+                  backgroundPosition: `center`,
+                  backgroundRepeat: `no-repeat`
+                }}><Link className="inverted" href={`../../reports/report_group0${index+1}.pdf`}>Report ↗</Link></Link>
+                <Link href={`../../websites/g0${index+1}/index.html`} style={{
+                  backgroundImage: `url(../../websites/thumb/0${index+1}.png)`,
+                  backgroundSize: `contain`,
+                  backgroundPosition: `center`,
+                  backgroundRepeat: `no-repeat`
+                }}><Link className="inverted" href={`../../websites/g0${index+1}/index.html`}>Website ↗</Link></Link>
             </div>
             <h1>{data.title}</h1>
             <p className="authors">{data.names}</p>

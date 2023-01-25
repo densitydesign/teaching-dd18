@@ -13,7 +13,7 @@ const posters = ({data}) => (
               marginRight: `1.5rem`,
               gridColumn: `span 3`
             }}>
-              <img src={`../../posters/thumb/g0${index+1}.jpg`} style={{maxWidth: `100%`}}/>
+              <img src={`../../posters/thumb/0${index+1}.jpg`} style={{maxWidth: `100%`}}/>
             </div>
             <div style={{
               gridColumn: `span 5`

@@ -1,60 +1,193 @@
+---
 groups:
-- group: group01
-  title: "How Do Climate Images Circulate Online"
-  names: "Litong Sun, Lucrezia Spapperi Gestri, Manman Li, Ran Lin, Ye Li, Yiheng Zhong, Yijia Gao"
-  image: "../../assets/img/es03/cover-g01.gif"
-  desc: "Image is a compelling visual medium for depicting real people, communicating truths, and creating new narratives. Additionally, when coupled with climate change, its emotionally powerful images can raise audience awareness of the issue. And how, precisely, “ClimateVisuals” - the climate image library, is a powerful platform built on trustworthy compass points. In this project, we analyse using a selection of images from "ClimateVisuals".  "
-
-- group: group02
-  title: "The Green Fever"
-  names: "Silvia Altamura, Ana Doric, Wanlin Li, Jessica Moreschi, Martina Paggi, Matteo Repetto, Lucrezia Valentini"
-  image: "../../assets/img/es03/cover-g02.png"
-  desc: "The report looks into how major fast food companies in the U.S. present sustainability on their websites. The food sector is accountable for 34% of CO2 emissions, and the U.S. is a major contributor. Thus, the aim of the study is to discover common patterns or distinct formulas in the digital communication tactics used by these corporations in relation to their representation of environmental impact. The study also aims to detect instances of ""greenwashing"" (deceptive claims of environmental responsibility) by analysing the history of the website, including when the sustainability page was introduced and the images and keywords used on it. 
-
-The Green Recipe Archive 
-The ongoing climate change can be considered as one of the major topics of today. Thus, many companies have been motivated to align their businesses to the new green values. As one of the significant generators of CO2 emissions, fast food companies are trying to change the current statistics as well. In doing so, they've started talking about environmental consciousness: by using a website as an official communication tool, they can at ease reach an audience and spread their green narratives. This archive is therefore structured as a collection of these green narratives, in which real examples of sentences extracted from their websites can be consulted and explored. A special attention was paid to highlighting the strategies and common patterns behind them: the “ingredients” of their “green recipes”."
-
-- group: group03
-  title: "Lost in the Woods - A Hike through the Terms surrounding Reforestation"
-  names: "Giulio Alessandrini, Alexandra Chiojdeanu, Andrea Corsini, Greta Cozza, Miguel Gashi, Alessia Mattesini, Ana Muço"
-  image: "../../assets/img/es03/cover-g03.gif"
-  desc: "With the threat of climate change growing day by day, our responsibility to care for our planet is more impor- tant than ever. This is where reforestation comes into play. The topic is connected to a range of practices adapted to solving environmental problems, from restor- ing habitats to replanting acres of damaged woodland. However, due to these varying methods, a branching can- opy of terms emerges. The aim of this investigation is to determine how these practices are connected, their growth over time, and which factors affect our associations to them. To conduct this analysis, three platforms were mainly used, Wikipedia, Google Trends and Google Images, to collect data and build findings. The following research expands on reforestation terms to find related topics using Wikipedia, allowing for the creation of network graphs which highlight connections and clusters between the data gathered. Google Trends was used to reveal the search trends of terms over time. Their popularity and how it fluctuates is shown, along with events and patterns that cause these changes. By ana- lysing Google Image results, the way terms are visually portrayed is investigated. This reveals usage of common tropes they share, or imagery unique to them. 
-
-Plant Forward 
-This is a website that takes its cue from the research done on the topic of reforestation named ""Lost in Woods,"" from the images found for that research in fact an archive was designed to understand how the images represent reforestation. Specifically we sorted the images according to how old the plant within was visually, we then presented this order in a continuous morphing between the images, thus creating the illusion of a plant growing with the passage of time. alongside this visualization we placed a sort of timeline so that at a glance we could estimate how many images represented the various stages of tree growth. The core of the site is then accompanied by an initial scrollytelling that explains the theme of the work and the logic of sorting the images, and an about page that explains the research methodologies applied to this project."
-
-- group: group04
-  title: "Ultra-Fast"
-  names: "Giovanni Bonassi, Cecilia Buonocunto, Martina Bracchi, Silvia Casavola, Vlada Ershova, Kateryna Lapshyna, Matteo Visini"
-  image: "../assets/img/es03/cover-g04.gif"
-  desc: "The buzz around fast fashion retailers, how sustainable and ethical they are, has been circulating in the media for quite a while. Companies like Shein, H&M, Zara, Mango, etc. are more and more frequently criticised by green activists and conscious consumers, especially of younger generations. However, these brands’ popularity does not seem to fall down, because of their affordability, readiness and fashionability. The issue was observed from three different perspectives: a more general point of view (observing Google Search results to track what are the most discussed topics online and how often they relate directly to the biggest fast fashion retailers), then the companies’ side (how they changed their policies, visual and verbal rhetorics over time in response to the sustainability trends) and finally the customers’ take (analysing user-generated-content on YouTube and especially video “hauls” to understand what they can tell about the issue in general and consumer behaviour patterns).
-
-Found in Fast Fashion Factories 
-Fashion is one of the most labour-dependent industries, but many companies have decided to bypass production completely, by switching their homeland production with contracted-out manufacturing, especially in low-income countries. This way, all of the processes ended up being submerged, making it very hard to imagine that the clothes we see in stores were once made by someone, somewhere far away. Found in Fast Fashion Factories is a web archive that collects 6683 photos that were posted on Google Maps with the geolocation of 1000 garment factories around the world. By republishing this data, FFFF makes everyday objects, people and spaces that are usually unseen, available for people to consult. The goal is to get closer to the reality of these places, to share a different (hopefully, more candid) perspective about them, and restore the discarded physicality of people and processes behind the fashion industry."
-
-- group: group05
-  title: "#banprivatejets: the social debate"
-  names: "Kangying Chen, Giuseppe Defilippis, Stefano Gubiolo, Maria Martinuz, Donato Renzulli, Antonio Sacchet, Yuying Tang"
-  image: "../../assets/img/es03/cover-g05.png"
-  desc: "In 2022 private jets have become a relevant topic in the fight against climate change. Using #banprivatejets, groups of activists, politicians and scientists have begun to highlight the need to tax emissions of private jets more decisively or, more extremely, to ban them. We focused our research on how people discuss this topic on social networks, trying to understand which are the most recurring themes and what are the differences among various languages. The report is divided in three parts: the first research question investigates the debate on TikTok, the second question analyses the debate on Instagram images and the last one also talks about Instagram but with a focus on the debate taking place in the comments. 
-
-Jetology 
-In 2022 private jets have become a relevant topic in the fight against climate change. Using #banprivatejets, groups of activists, politicians and scientists have begun to highlight the need to tax emissions of private jets more decisively or, more extremely, to ban them. However, in participatory social network as TikTok, the debate generated by private jets is not only related to climate issues: there are numerous strands of debate that exploit climate discussion. What topics are the most discussed? Which are those thematic topic patterns that diverge from the main theme of environmental pollution?"
-
-- group: group06
-  title: "ARTIFICIAL CLIMATE IMAGES:  Questioning Stable Diffusion’s interpretations of climate change"
-  names: "Anna Cattaneo, Yiyuan Hu, Lara Macrini, Nicole Moreschi, Leonardo Puca, Silvia Sghirinzetti, Ce Zheng"
-  image: "../../assets/img/es03/cover-g06.png"
-  desc: "Innovations in the digital sphere have made Artificial Intelligences new actors of the communication landscape. What if txt-to-img AIs were in charge of producing climate change visuals? This report uses Stable Diffusion – an open source txt-to-img AI – to question the relationship between humans and machines in the context of climate change imagery. Specifically, it focuses on Stable Diffusion's training set (images provided to Ai), latent space (image generation process), and outputs (new images generated by Ai). Therefore, the 3 research questions are - How are climate change actors and actions depicted in Stable Diffusion’s training set? - What can latent space tell us about Stable Diffusion’s interpretations of climate change? - How does Stable Diffusion represent people and their actions related to climate change in generated images? 
-
-EYE TO AI: Exposing human biases on climate change through AI 
-The future has arrived: text-to-image AI is here, we can now generate images from simple text descriptions. Tools like Dall-e and Stable Diffusion are rapidly spreading, but behind the facade of a simple and fun technology there are some significant ethical concerns that aren't known to the public. Eye to Al brings to light the biases and stereotypes on climate change that txt-to-img AI inherits from society, using the machine itself as a tool to expose its inherent issues while joining the wide debate on the myth of neutrality in technology. Testing Stable Diffusion, we generated 500 images starting from prompts that ranged among climate change related topics and defined clusters of biases based on observed patterns. The result is explorable through the website in the bias catalogue and the prompt explorer."
-
-- group: group07
-  title: "A highway to greenness. Analysing green narratives in car brands’ adverts"
-  names: "Andrea Benedetto, Simone Cerea, Camilla Guerci, Surabhi Gupta, Haleh Nobar, Alessandro Pedriali, Yousef Taffal"
-  image: "../../assets/img/es03/cover-g07.png"
-  desc: "During these last decades, the automotive industry seems to have taken some steps towards “sustainability”, by increasing fuel efficiency and developing hybrid and “emission-free” powertrains. Despite this, it is still often accused of greenwashing, since many brands still don’t plan to cease the production of internal combustion engine vehicles nor to stop collaborating or lobbying with fossil fuel companies, even when their line-up is “fully electric”. And when it comes to batteries, there lays the problem of mining rare-earth metals. The report is the result of an investigative effort on the communication strategies that car brands adapt to make their models appear more “eco-friendly” in their video advertisements, starting from 90 different best selling vehicles in Europe in 2021—30 for each major propulsion type. 
-
-Automotifs. A collection of recurring communication strategies related to sustainability in car adverts on YouTube
-Automotifs is a collection of sustainability-related communication strategies found in car adverts on YouTube: today, most car brands tend to use communication strategies that could be interpreted both as a subtle way to associate their models and image to the concept of sustainability and as typical advertising efforts. Thus, they could be leveraged not to just persuade people into buying a new model, but to also promote a cleaner image of both themselves and their products. The website reveals them in a de-contextualised and straightforward manner by focusing on their peculiarities through supercuts and video collages, so that car owners, potential customers or people interested in mobility, energy transition and related topics can examine this content with a critical perspective, reflect on, or just form their opinion on it."
+  - group: group01
+    title: How Do Climate Images Circulate Online
+    names: Litong Sun, Lucrezia Spapperi Gestri, Manman Li, Ran Lin, Ye Li, Yiheng
+      Zhong, Yijia Gao
+    image: ../../assets/img/es03/cover-g01.gif
+    desc: Image is a compelling visual medium for depicting real people,
+      communicating truths, and creating new narratives. Additionally, when
+      coupled with climate change, its emotionally powerful images can raise
+      audience awareness of the issue. And how, precisely, “ClimateVisuals” -
+      the climate image library, is a powerful platform built on trustworthy
+      compass points. In this project, we analyse using a selection of images
+      from ClimateVisuals
+  - group: group02
+    title: The Green Fever
+    names: Silvia Altamura, Ana Doric, Wanlin Li, Jessica Moreschi, Martina Paggi,
+      Matteo Repetto, Lucrezia Valentini
+    image: ../../assets/img/es03/cover-g02.png
+    desc: "The report looks into how major fast food companies in the U.S. present
+      sustainability on their websites. The food sector is accountable for 34%
+      of CO2 emissions, and the U.S. is a major contributor. Thus, the aim of
+      the study is to discover common patterns or distinct formulas in the
+      digital communication tactics used by these corporations in relation to
+      their representation of environmental impact. The study also aims to
+      detect instances of greenwashing (deceptive claims of environmental
+      responsibility) by analysing the history of the website, including when
+      the sustainability page was introduced and the images and keywords used on
+      it. The Green Recipe Archive The ongoing climate change can be considered
+      as one of the major topics of today. Thus, many companies have been
+      motivated to align their businesses to the new green values. As one of the
+      significant generators of CO2 emissions, fast food companies are trying to
+      change the current statistics as well. In doing so, they've started
+      talking about environmental consciousness: by using a website as an
+      official communication tool, they can at ease reach an audience and spread
+      their green narratives. This archive is therefore structured as a
+      collection of these green narratives, in which real examples of sentences
+      extracted from their websites can be consulted and explored. A special
+      attention was paid to highlighting the strategies and common patterns
+      behind them: the “ingredients” of their “green recipes”."
+  - group: group03
+    title: Lost in the Woods - A Hike through the Terms surrounding Reforestation
+    names: Giulio Alessandrini, Alexandra Chiojdeanu, Andrea Corsini, Greta Cozza,
+      Miguel Gashi, Alessia Mattesini, Ana Muço
+    image: ../../assets/img/es03/cover-g03.gif
+    desc: With the threat of climate change growing day by day, our responsibility
+      to care for our planet is more impor- tant than ever. This is where
+      reforestation comes into play. The topic is connected to a range of
+      practices adapted to solving environmental problems, from restor- ing
+      habitats to replanting acres of damaged woodland. However, due to these
+      varying methods, a branching can- opy of terms emerges. The aim of this
+      investigation is to determine how these practices are connected, their
+      growth over time, and which factors affect our associations to them. To
+      conduct this analysis, three platforms were mainly used, Wikipedia, Google
+      Trends and Google Images, to collect data and build findings. The
+      following research expands on reforestation terms to find related topics
+      using Wikipedia, allowing for the creation of network graphs which
+      highlight connections and clusters between the data gathered. Google
+      Trends was used to reveal the search trends of terms over time. Their
+      popularity and how it fluctuates is shown, along with events and patterns
+      that cause these changes. By ana- lysing Google Image results, the way
+      terms are visually portrayed is investigated. This reveals usage of common
+      tropes they share, or imagery unique to them. Plant Forward This is a
+      website that takes its cue from the research done on the topic of
+      reforestation named Lost in Woods, from the images found for that research
+      in fact an archive was designed to understand how the images represent
+      reforestation. Specifically we sorted the images according to how old the
+      plant within was visually, we then presented this order in a continuous
+      morphing between the images, thus creating the illusion of a plant growing
+      with the passage of time. alongside this visualization we placed a sort of
+      timeline so that at a glance we could estimate how many images represented
+      the various stages of tree growth. The core of the site is then
+      accompanied by an initial scrollytelling that explains the theme of the
+      work and the logic of sorting the images, and an about page that explains
+      the research methodologies applied to this project.
+  - group: group04
+    title: Ultra-Fast
+    names: Giovanni Bonassi, Cecilia Buonocunto, Martina Bracchi, Silvia Casavola,
+      Vlada Ershova, Kateryna Lapshyna, Matteo Visini
+    image: ../assets/img/es03/cover-g04.gif
+    desc: "The buzz around fast fashion retailers, how sustainable and ethical they
+      are, has been circulating in the media for quite a while. Companies like
+      Shein, H&M, Zara, Mango, etc. are more and more frequently criticised by
+      green activists and conscious consumers, especially of younger
+      generations. However, these brands’ popularity does not seem to fall down,
+      because of their affordability, readiness and fashionability. The issue
+      was observed from three different perspectives: a more general point of
+      view (observing Google Search results to track what are the most discussed
+      topics online and how often they relate directly to the biggest fast
+      fashion retailers), then the companies’ side (how they changed their
+      policies, visual and verbal rhetorics over time in response to the
+      sustainability trends) and finally the customers’ take (analysing
+      user-generated-content on YouTube and especially video “hauls” to
+      understand what they can tell about the issue in general and consumer
+      behaviour patterns). Found in Fast Fashion Factories Fashion is one of the
+      most labour-dependent industries, but many companies have decided to
+      bypass production completely, by switching their homeland production with
+      contracted-out manufacturing, especially in low-income countries. This
+      way, all of the processes ended up being submerged, making it very hard to
+      imagine that the clothes we see in stores were once made by someone,
+      somewhere far away. Found in Fast Fashion Factories is a web archive that
+      collects 6683 photos that were posted on Google Maps with the geolocation
+      of 1000 garment factories around the world. By republishing this data,
+      FFFF makes everyday objects, people and spaces that are usually unseen,
+      available for people to consult. The goal is to get closer to the reality
+      of these places, to share a different (hopefully, more candid) perspective
+      about them, and restore the discarded physicality of people and processes
+      behind the fashion industry."
+  - group: group05
+    title: "#banprivatejets: the social debate"
+    names: Kangying Chen, Giuseppe Defilippis, Stefano Gubiolo, Maria Martinuz,
+      Donato Renzulli, Antonio Sacchet, Yuying Tang
+    image: ../../assets/img/es03/cover-g05.png
+    desc: "In 2022 private jets have become a relevant topic in the fight against
+      climate change. Using #banprivatejets, groups of activists, politicians
+      and scientists have begun to highlight the need to tax emissions of
+      private jets more decisively or, more extremely, to ban them. We focused
+      our research on how people discuss this topic on social networks, trying
+      to understand which are the most recurring themes and what are the
+      differences among various languages. The report is divided in three parts:
+      the first research question investigates the debate on TikTok, the second
+      question analyses the debate on Instagram images and the last one also
+      talks about Instagram but with a focus on the debate taking place in the
+      comments. Jetology In 2022 private jets have become a relevant topic in
+      the fight against climate change. Using #banprivatejets, groups of
+      activists, politicians and scientists have begun to highlight the need to
+      tax emissions of private jets more decisively or, more extremely, to ban
+      them. However, in participatory social network as TikTok, the debate
+      generated by private jets is not only related to climate issues: there are
+      numerous strands of debate that exploit climate discussion. What topics
+      are the most discussed? Which are those thematic topic patterns that
+      diverge from the main theme of environmental pollution?"
+  - group: group06
+    title: "ARTIFICIAL CLIMATE IMAGES:  Questioning Stable Diffusion’s
+      interpretations of climate change"
+    names: Anna Cattaneo, Yiyuan Hu, Lara Macrini, Nicole Moreschi, Leonardo Puca,
+      Silvia Sghirinzetti, Ce Zheng
+    image: ../../assets/img/es03/cover-g06.png
+    desc: "Innovations in the digital sphere have made Artificial Intelligences new
+      actors of the communication landscape. What if txt-to-img AIs were in
+      charge of producing climate change visuals? This report uses Stable
+      Diffusion – an open source txt-to-img AI – to question the relationship
+      between humans and machines in the context of climate change imagery.
+      Specifically, it focuses on Stable Diffusion's training set (images
+      provided to Ai), latent space (image generation process), and outputs (new
+      images generated by Ai). Therefore, the 3 research questions are - How are
+      climate change actors and actions depicted in Stable Diffusion’s training
+      set? - What can latent space tell us about Stable Diffusion’s
+      interpretations of climate change? - How does Stable Diffusion represent
+      people and their actions related to climate change in generated images?
+      EYE TO AI: Exposing human biases on climate change through AI The future
+      has arrived: text-to-image AI is here, we can now generate images from
+      simple text descriptions. Tools like Dall-e and Stable Diffusion are
+      rapidly spreading, but behind the facade of a simple and fun technology
+      there are some significant ethical concerns that aren't known to the
+      public. Eye to Al brings to light the biases and stereotypes on climate
+      change that txt-to-img AI inherits from society, using the machine itself
+      as a tool to expose its inherent issues while joining the wide debate on
+      the myth of neutrality in technology. Testing Stable Diffusion, we
+      generated 500 images starting from prompts that ranged among climate
+      change related topics and defined clusters of biases based on observed
+      patterns. The result is explorable through the website in the bias
+      catalogue and the prompt explorer."
+  - group: group07
+    title: A highway to greenness. Analysing green narratives in car brands’ adverts
+    names: Andrea Benedetto, Simone Cerea, Camilla Guerci, Surabhi Gupta, Haleh
+      Nobar, Alessandro Pedriali, Yousef Taffal
+    image: ../../assets/img/es03/cover-g07.png
+    desc: "During these last decades, the automotive industry seems to have taken
+      some steps towards “sustainability”, by increasing fuel efficiency and
+      developing hybrid and “emission-free” powertrains. Despite this, it is
+      still often accused of greenwashing, since many brands still don’t plan to
+      cease the production of internal combustion engine vehicles nor to stop
+      collaborating or lobbying with fossil fuel companies, even when their
+      line-up is “fully electric”. And when it comes to batteries, there lays
+      the problem of mining rare-earth metals. The report is the result of an
+      investigative effort on the communication strategies that car brands adapt
+      to make their models appear more “eco-friendly” in their video
+      advertisements, starting from 90 different best selling vehicles in Europe
+      in 2021—30 for each major propulsion type. Automotifs. A collection of
+      recurring communication strategies related to sustainability in car
+      adverts on YouTube Automotifs is a collection of sustainability-related
+      communication strategies found in car adverts on YouTube: today, most car
+      brands tend to use communication strategies that could be interpreted both
+      as a subtle way to associate their models and image to the concept of
+      sustainability and as typical advertising efforts. Thus, they could be
+      leveraged not to just persuade people into buying a new model, but to also
+      promote a cleaner image of both themselves and their products. The website
+      reveals them in a de-contextualised and straightforward manner by focusing
+      on their peculiarities through supercuts and video collages, so that car
+      owners, potential customers or people interested in mobility, energy
+      transition and related topics can examine this content with a critical
+      perspective, reflect on, or just form their opinion on it."

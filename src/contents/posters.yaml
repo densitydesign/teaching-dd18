@@ -1,7 +1,7 @@
 groups:
   - group: group01
     title: "Principal Component Analysis"
-    names: "FLitong Sun, Lucrezia Spapperi Gestri, Manman Li, Ran Lin, Ye Li, Yiheng Zhong, Yijia Gao"
+    names: "Litong Sun, Lucrezia Spapperi Gestri, Manman Li, Ran Lin, Ye Li, Yiheng Zhong, Yijia Gao"
     image: "../../assets/img/es03/cover-g01.gif"
     desc: "The principal component analysis is a statistical technique for analysing large datasets that may contain many dimensions—mainly used to define the relationship between unrelated variables. We frequently encounter many samples with unrelated variables, hobbies or personalities are composed of many complicated factors, and no associations or pattern exists between them. In this case, we use PCA as a method of data analysis to determine the data in a clearer and more visual format. This poster made by Group 1 shows the aspiration of 21 people to spend their weekends."
 
@@ -13,13 +13,13 @@ groups:
 
   - group: group03
     title: "Classification Trees"
-    names: "AGiulio Alessandrini, Alexandra Chiojdeanu, Andrea Corsini, Greta Cozza, Miguel Gashi, Alessia Mattesini, Ana Muço"
+    names: "Giulio Alessandrini, Alexandra Chiojdeanu, Andrea Corsini, Greta Cozza, Miguel Gashi, Alessia Mattesini, Ana Muço"
     image: "../../assets/img/es03/cover-g03.gif"
     desc: "A classification tree is a sequence of binary decisions that lead to a prediction about the class (interpretation) of a data (an object). Having a training dataset, is it possible to build a tree by identifying sequential splitting rules, creating more homogeneous subgroups time after time. A good classification tree is built by finding the best splitting criteria and choosing the right time to stop splitting, in this way it is efficient and it not tends to overfit the initial dataset. This poster aims to explain the process of constructing and running a classification tree with an example taken from the daily life of a student in an exam session: by looking at the number of stickers on students' computers and the number of exams they have to study, try to guess the study course they belong to."
 
   - group: group04
-    title: "Giovanni Bonassi, Cecilia Buonocunto, Martina Bracchi, Silvia Casavola, Vlada Ershova, Kateryna Lapshyna, Matteo Visini"
-    names: "Letizia Agosta, Aurora Antonini Cencicchio, Martina Bombardieri, Elena Busletta, Camilla De Amicis, Federico Lucifora"
+    title: "Biclustering"
+    names: "Giovanni Bonassi, Cecilia Buonocunto, Martina Bracchi, Silvia Casavola, Vlada Ershova, Kateryna Lapshyna, Matteo Visini"
     image: "../../assets/img/es03/cover-g04.gif"
     desc: "Girvan-Newman’s Community detection is an algorithm that works on a network of elements (called nodes). Its aim is to identify communities among the network, by operating on the hidden relationships and connections between the elements. It can compute a few thousands of nodes. The most common uses are in social media, to detect people with similar interest and make them connect (or keep them tightly connected). This poster presents two holes in the middle that allow the user to turn a wheel which shows the steps of the iteration of the process. The algorithm is in fact based on the repetition of a certain action: cutting the edges with the highest edge value (edge betweenness). Through the movements of the wheel it is possible to see how this happens and happens again until there are no longer communities to identify."
 
