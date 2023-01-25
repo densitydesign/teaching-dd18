@@ -4,6 +4,7 @@ $text-color: #101111;
 $secondary: #101111;
 $main-color: #C4C8D8;
 $accent: #D3FFCD;
+$translucent: #D3FFCD50;
 $text-font: "Karla", "Georgia", serif;
 $display-font: "Unbounded", "Arial", sans-serif;
 
@@ -344,34 +345,47 @@ footer {
     padding: 1rem 0;
 
     .authors {
-        font-style: italic;
-        font-size: 1.2rem;
+        font-size: 1.3rem;
+        font-family: $text-font;
+
+        .topic {
+            font-family: $display-font;
+            font-size: 1.1rem;
+            margin-right: 2rem;
+            color: darken($main-color, 20%);
+        }
     }
 
-    .card {
+    .group {
         display: flex;
 
         a.inverted {
             background-color: $main-color;
         }
+
+        .card {
+            width: 50%;
+        }
         
-        > * {
+        .cover {
+            padding: 0;
             background-color: $accent;
-            border: 25px solid $accent;
+            background-size: 95%;
             display: flex;
             justify-content: center;
             align-items: flex-end;
-            width: 50%;
-            height: 350px;
-            transition: opacity 0.3s ease;
+            width: 100%;
+            height: 40vh;
+            border: none;
+            transition: background 0.3s ease;
         }
 
-        > *:hover {
-            opacity: 0.5;
+        .cover:hover {
+            background-color: $translucent;
         }
 
-        > *:first-child {
-            margin-right: 1rem;
+        .card:first-child {
+            margin-right: 1.5rem;
         }
     }
 }
@@ -472,12 +486,11 @@ footer {
     .repo {
         grid-column: span 4;
 
-        .card {
+        .group {
             flex-wrap: wrap;
 
-            > * {
+            > .card {
                 min-width: 100%;
-                height: 250px;
                 margin: 0 0 1rem 0;
             }
         }

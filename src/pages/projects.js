@@ -1,12 +1,11 @@
 import * as React from "react"
 import { Link } from "gatsby"
-import data from "../contents/projects.yaml"
+import data from "../contents/new_projects.yaml"
 
 import Navbar from "../components/navbar.js"
 import Footer from "../components/footer.js"
 import YAMLBuilder from "../components/yaml-builder.js"
 import Menu from "../components/right-menu.js"
-import Breadcrumb from "../components/breadcrumbs"
 
 import Projects from "../contents/projects.mdx"
 

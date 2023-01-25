@@ -5,24 +5,31 @@ const YAMLbuilder = ({data}) => (
   <div className="repo">
     {data.groups.map((data, index) => {
         return <div key={`content_item_${index}`} style={{ marginBottom: `5rem` }} id={data.group}>
-            <div className="card">
-                <Link href={`../../reports/report_group0${index+1}.pdf`} style={{
+            <h3 className="authors"><span className="topic">{data.topic}</span>{data.names}</h3>
+            {console.log(data.report.title)}
+            <div className="group">
+              <div className="card">
+                <Link className="cover" href={`../../reports/report_group0${index+1}.pdf`} style={{
                   backgroundImage: `url(../../reports/thumb/0${index+1}.png)`,
                   backgroundSize: `contain`,
                   backgroundPosition: `center`,
                   backgroundRepeat: `no-repeat`,
                   borderRadius: 0
-                }}><Link className="inverted" href={`../../reports/report_group0${index+1}.pdf`}>Report ↗</Link></Link>
-                <Link href={`../../websites/g0${index+1}/index.html`} style={{
+                }}></Link>
+                <h2>{data.report.title}</h2>
+                <p>{data.report.desc}</p>
+              </div>
+              <div className="card">
+                <Link className="cover" href={data.website.url} target="_blank" style={{
                   backgroundImage: `url(../../websites/thumb/0${index+1}.png)`,
-                  backgroundSize: `contain`,
                   backgroundPosition: `center`,
                   backgroundRepeat: `no-repeat`,
                   borderRadius: 0
-                }}><Link className="inverted" href={`../../websites/g0${index+1}/index.html`}>Website ↗</Link></Link>
+                }}></Link>
+                <h2>{data.website.title}</h2>
+                <p>{data.website.desc}</p>
+              </div>
             </div>
-            <h1>{data.title}</h1>
-            <p className="authors">{data.names}</p>
             <p>{data.desc}</p>
         </div>
     })}

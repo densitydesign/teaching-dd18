@@ -26,7 +26,7 @@ const posters = ({data}) => (
             }}>
             <h1 style={{
               marginTop: 0
-            }}>{data.title}</h1>
+            }}>{data.topic}</h1>
             <p className="authors">{data.names}</p>
             <p>{data.desc}</p>
             <Link href={`../../posters/g0${index+1}.pdf`}>See the poster</Link>
