@@ -7,8 +7,8 @@ groups:
     title: "How Do Climate Images Circulate Online"
     desc: "Image is a compelling visual medium for depicting real people, communicating truths, and creating new narratives. Additionally, when coupled with climate change, its emotionally powerful images can raise audience awareness of the issue. And how, precisely, “ClimateVisuals” - the climate image library, is a powerful platform built on trustworthy compass points. In this project, we analyse using a selection of images from ”ClimateVisuals”."
   website: 
-    title: ""
-    desc: ""
+    title: "Climate Images Location Map"
+    desc: "ClimateVisuals advocated that online publishers use authentic local images to illustrate or disseminate the specific climate issues behind them. However, we found that some images were being used incorrectly on the internet to depict climate change events in the wrong places. In this project, we created an online map tool for audiences to use in this project to explore climate issues and the current misuse status of various climate images."
     url: "https://densitydesign.github.io/dd18-g01/"
 
 - group: group02
