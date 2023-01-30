@@ -13,12 +13,12 @@ const posters = ({data}) => (
               marginRight: `1.5rem`,
               gridColumn: `span 3`
             }}>
-              <Link href={`../posters/g0${index+1}.pdf`} style={{
+              <Link href={`posters/g0${index+1}.pdf`} style={{
                 backgroundColor: "transparent",
                 padding: 0,
                 border: "none"
               }}>
-              <img src={`../posters/thumb/0${index+1}.jpg`} style={{maxWidth: `100%`}}/>
+              <img src={`posters/thumb/0${index+1}.jpg`} style={{maxWidth: `100%`}}/>
               </Link>
             </div>
             <div style={{
@@ -29,7 +29,7 @@ const posters = ({data}) => (
             }}>{data.topic}</h1>
             <p className="authors">{data.names}</p>
             <p>{data.desc}</p>
-            <Link href={`../posters/g0${index+1}.pdf`}>See the poster</Link>
+            <Link href={`posters/g0${index+1}.pdf`}>See the poster</Link>
             </div>
         </div>
     })}
