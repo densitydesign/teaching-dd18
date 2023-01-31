@@ -393,6 +393,10 @@ footer {
         position: static;
     }
 
+    aside.right {
+        column-count: 1;
+    }
+
     footer .logo {
         grid-column: 1 / 6;
       }
@@ -430,6 +434,10 @@ footer {
               li {
                   margin-right: 0.5rem;
               }
+          }
+
+          *:last-child {
+            grid-column: 2 / span 3;
           }
       }
     
